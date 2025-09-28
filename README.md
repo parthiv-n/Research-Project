@@ -1,4 +1,4 @@
-# Research-Project
+# Dissertation: Prostate Cancer Lesion Detection from MRI with Deep Learning
 #order of code:
 #1 - transforming_with_glob
 #2 - resizing to 1x1x1mm3
